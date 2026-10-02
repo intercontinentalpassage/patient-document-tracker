@@ -1,0 +1,3 @@
+# Keep files identical on every computer so version comparisons and patches stay clean
+*.html text eol=lf
+*.md   text eol=lf

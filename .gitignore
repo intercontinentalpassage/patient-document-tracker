@@ -1,0 +1,13 @@
+# Never commit patient data or credentials
+*.xlsx
+*.xls
+*.csv
+*.env
+*password*
+*secret*
+*token*
+# Editor and system files
+.DS_Store
+Thumbs.db
+*.swp
+node_modules/
