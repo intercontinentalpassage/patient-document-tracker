@@ -27,7 +27,7 @@ If a change alters how the app is built (new storage, new roles, new built-in ac
 
 ```
 I'm Sai, a data analyst at MedPark Hospital in Bangkok. My Patient Document Tracker is a single-file
-offline HTML/JS app in this public GitHub repo: https://github.com/saimwunnaw/patient-document-tracker
+offline HTML/JS app in this public GitHub repo: https://github.com/intercontinentalpassage/patient-document-tracker
 (branch main). I don't remember earlier chats and neither do you, so clone the repo, read
 patient-document-tracker.html, README.md and CHANGELOG.md fully, and treat the repo as the source of truth.
 Don't build anything until we have agreed a plan.
